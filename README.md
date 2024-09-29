@@ -8,10 +8,14 @@
 - 💬 Posez-moi des questions sur JavaScript, React Js , React Native ou Spring Boot !
 - 📫 Comment me joindre : notaila7@gmail.com
 
+## Liens
+[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4b/Gmail_Icon.svg)](mailto:notaila7@gmail.com)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/noutaila-benzala-7a3335263/)
+
 ## Technologies et outils
-- **Langages** : JavaScript, Python, Java , C , C# , SQL
+- **Langages** : JavaScript, Python, Java , C , C# , SQL , HTML, CSS
 - **Frameworks** : React, Node.js 
-- **Outils** : Git, Docker, Postman, **Linux**, Jenkins, Visual Studio Code
+- **Outils** : Git, Docker, Postman, **Linux**,  Visual Studio Code , IntelliJ IDEA, Jupyter Notebook
 
 ## Projets récents
 - [Application de Gestion des Astreintes](https://github.com/NOUTAILAA/Gestion-Des-Astreintes) - Une application web et mobile qui gère les plannings de garde des agents de manière automatique ou manuelle, en les notifiant via leurs e-mails.
