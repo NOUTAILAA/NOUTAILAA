@@ -8,9 +8,6 @@
 - 💬 Posez-moi des questions sur JavaScript, React Js , React Native ou Spring Boot !
 - 📫 Comment me joindre : notaila7@gmail.com
 
-## Liens
-[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4b/Gmail_Icon.svg)](mailto:notaila7@gmail.com)
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/noutaila-benzala-7a3335263/)
 
 ## Technologies et outils
 - **Langages** : JavaScript, Python, Java , C , C# , SQL , HTML, CSS
