@@ -3,7 +3,7 @@
 ## À propos de moi
 - 💻 Développeuse full-stack passionnée par la création d'applications web et mobile .
 - 🌱 J'apprends actuellement TypeScript et Next.js.
-- 👯 Je suis ouvert à des collaborations sur des projets open source et des applications web|mobile.
+- 👯 Je suis ouverte à des collaborations sur des projets open source et des applications web|mobile.
 - 🤔 Je cherche à me perfectionner dans l'architecture des applications et le développement mobile.
 - 💬 Posez-moi des questions sur JavaScript, React Js , React Native ou Spring Boot !
 - 📫 Comment me joindre : notaila7@gmail.com
