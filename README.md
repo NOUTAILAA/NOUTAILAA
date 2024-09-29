@@ -1,7 +1,7 @@
 # Bonjour, je suis BENZALA Noutaila 👋
 
 ## À propos de moi
-- 💻 Développeur full-stack passionné par la création d'applications web et mobile .
+- 💻 Développeuse full-stack passionné par la création d'applications web et mobile .
 - 🌱 J'apprends actuellement TypeScript et Next.js.
 - 👯 Je suis ouvert à des collaborations sur des projets open source et des applications web|mobile.
 - 🤔 Je cherche à me perfectionner dans l'architecture des applications et le développement mobile.
