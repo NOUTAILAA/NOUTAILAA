@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 </p>
 
  ## ❤ Views and Followers
-<a href="https://github.com/AbderrahmaneBelahrech/github-profile-views-counter">
+<a href="https://github.com/NOUTAILAA/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AbderrahmaneBelahrech">
 </a>
-<a href="https://github.com/AbderrahmaneBelahrech?tab=followers"><img src="https://img.shields.io/github/followers/AbderrahmaneBelahrech?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/NOUTAILAA?tab=followers"><img src="https://img.shields.io/github/followers/AbderrahmaneBelahrech?label=Followers&style=social" alt="GitHub Badge"></a>
