@@ -61,8 +61,8 @@ Here are some ideas to get you started:
  ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/yassinexc/github-readme-stats"><img alt="yassine Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbderrahmaneBelahrech&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AbderrahmaneBelahrech/github-readme-stats"><img alt="yassine Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbderrahmaneBelahrech&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/yassinexc/github-readme-stats"><img alt="yassine Github Stats" src="https://github-readme-stats.vercel.app/api?username=NOUTAILAA&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/NOUTAILAA/github-readme-stats"><img alt="yassine Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbderrahmaneBelahrech&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
   
@@ -76,15 +76,6 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
- ## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/abderrahmane-belahrech-60b097235/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/profile.php?id=100009320569584"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/abdo_belahrech/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-
-</p>
 
  ## ❤ Views and Followers
 <a href="https://github.com/NOUTAILAA/github-profile-views-counter">
