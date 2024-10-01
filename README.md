@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## À propos de moi
+##💫 À propos de moi
 - 💻 Développeuse full-stack passionnée par la création d'applications web et mobile .
 - 🌱 J'apprends actuellement TypeScript et Next.js.
 - 👯 Je suis ouverte à des collaborations sur des projets open source et des applications web|mobile.
