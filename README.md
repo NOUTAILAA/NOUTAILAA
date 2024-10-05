@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## 💻 Technologies et outils
 - **Langages** : JavaScript, Python, Java , C , C# , SQL , HTML, CSS
 - **Frameworks** : React, Node.js 
-- **Outils** : Git, Docker, Postman, **Linux**,  Visual Studio Code , IntelliJ IDEA, Jupyter Notebook
+- **Outils** : Git, Docker, Postman, **Linux**,  Visual Studio Code , IntelliJ IDEA, Jupyter Notebook , Spring Tool Suite
 
 ## 🖥️ Projets récents
 - [Application de Gestion des Astreintes](https://github.com/NOUTAILAA/Gestion-Des-Astreintes) - Une application web et mobile qui gère les plannings de garde des agents de manière automatique ou manuelle, en les notifiant via leurs e-mails.
